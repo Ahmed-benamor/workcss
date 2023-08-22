@@ -1,0 +1,33 @@
+#porfolio{
+    color: rgb(252, 92, 6);
+    text-align: center;
+    font-size: 100px;
+}
+.title{
+    color: rgba(20, 114, 111);
+    text-align:left;
+}
+.nav {
+    color: rgb(20, 114, 111);
+    padding-inline-start: 12%;
+   align-items: center;
+   font-family: roboto;
+}
+.table{
+    color: rgb(0, 0, 0);
+}
+.col{
+    color: rgb(5, 4, 4);
+}
+#background{
+background-color: rgb(255, 205, 205);
+}
+.h{
+    color:rgb(0, 0, 0);
+}
+#video{
+    padding-right: 20%;
+}
+.zzz{
+    font-family: monospace ;
+}
